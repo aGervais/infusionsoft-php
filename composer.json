@@ -1,5 +1,5 @@
 {
-    "name": "aGervais/php-sdk",
+    "name": "aGervais/infusionsoft-php",
     "description": "Forked Beta PHP SDK for the Infusionsoft API",
     "license": "MIT",
     "authors": [
