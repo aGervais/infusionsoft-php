@@ -1,22 +1,16 @@
 {
-    "name": "infusionsoft/php-sdk",
-    "description": "Beta PHP SDK for the Infusionsoft",
-    "keywords": [
-        "infusionsoft",
-        "sdk"
-    ],
-    "homepage": "https://developer.infusionsoft.com",
+    "name": "aGervais/php-sdk",
+    "description": "Forked Beta PHP SDK for the Infusionsoft API",
     "license": "MIT",
     "authors": [
         {
-            "name": "Infusionsoft",
-            "homepage": "https://developer.infusionsoft.com"
+            "name": "Alan Gervais"
         }
     ],
     "require": {
         "php": ">=5.3.3",
         "ext-curl": "*",
-        "guzzle/guzzle": "3.8.*",
+        "guzzle/guzzle": "~3.7",
         "lstrojny/fxmlrpc": "0.8.*"
     },
     "require-dev": {
